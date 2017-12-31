@@ -1,12 +1,12 @@
 # Site Settings
 title: Richmond's Resume
-url: 'http://webjeda.com'
+url: 'amohrichmond.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
-#style: styles-4
+style: styles-4
 #style: styles-5
 #style: styles-6
 
@@ -20,12 +20,12 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: amohrichmond@gmail.com
+phone: +1 616 228 5143
 website: blog.webjeda.com #do not add http://
 linkedin: alandoe
 github: sharu725
-twitter: '@webjeda'
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

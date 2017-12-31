@@ -1,28 +1,21 @@
 - experience:
-  role: Lead Developer
+  role: Media Assistant
   time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  company: The Well Church
+  details: "As a media assistant, I perform technical support in videography during our congregational services at The Well Church. 
+  This include performing audio and video recording, editing and conducting video uploads to the church’s website. I further manage the storage and organization of digital images and videos. 
+  This role has been instrumental in building my skills in multimedia management and audio-visual presentation."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Production Engineering Intern,
+  time: Summer 2017 
+  company: LG Chemical Michigan Inc.
+  details: "The internship at LG Chemical can be divided into three main sections such as research, data analysis and product design. 
+  At LG Chemical, I performed extensive research to find materials and tools needed for the working of the automated system and equipment at the Pack assembly line. 
+  Control charts were generated for the welders on the assembly lines while gage R & R was performed on both operator and tool to determine repeatability and reproducibility. 
+  SolidWorks was used extensively to design tools such as jigs, fixtures and go-no-go gages."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Mechanical Engineering Intern
+  time: Summer 2016
+  company: Justmac Ventures
+  details: "In a 5-man team I operated a Metso Stone Crushing Plant. I performed daily maintenance procedures on the plant which included installing new bearings and drums for the conveyor system. 
+  Also, I assisted in the emergency replacement of broken down gear boxes for the conveyor system."
